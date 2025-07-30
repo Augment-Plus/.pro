@@ -3,8 +3,8 @@
 const env = process.env.NODE_ENV || 'development';
 
 const baseConfig = {
-  appName: 'Basic Node App',
-  port: process.env.PORT || 3000,
+  appName: '.pro Node Server',
+  port: process.env.PORT || 6001,
 };
 
 const development = {
